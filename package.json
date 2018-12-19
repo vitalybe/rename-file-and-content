@@ -1,0 +1,7 @@
+{
+  "name": "file-and-content-rename",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Vitaly <vitalyb@gmail.com>",
+  "license": "MIT"
+}
