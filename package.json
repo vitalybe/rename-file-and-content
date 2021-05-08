@@ -1,5 +1,5 @@
 {
-  "name": "file-and-content-rename",
+  "name": "rename-file-and-content",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Vitaly <vitalyb@gmail.com>",
